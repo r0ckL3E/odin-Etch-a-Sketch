@@ -12,8 +12,7 @@ function createGrid (size) {
     container.style.width = `${containerSize}px`;
     container.style.height = `${containerSize}px`;
 
-    const itemSize = gridDimension;
-    const adaptiveSize = containerSize/itemSize;
+    const adaptiveSize = containerSize / gridDimension;
 
     for (let i = 0; i < size; i++) {
         const divBox = document.createElement("div");
