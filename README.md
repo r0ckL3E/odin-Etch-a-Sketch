@@ -1,1 +1,1 @@
-In this project, I will be creating a pretty neat toy to flex you DOM manipulation skills. I will be building a browser version of something between a sketchpad and an Etch-A-Sketch.
+In this project, I will be creating a pretty neat toy to flex you DOM manipulation skills. I will be building a browser version of something between a sketchpad and an Etch-A-Sketch.code 
